@@ -1,0 +1,1 @@
+endpoint=https://communicationphone123.india.communication.azure.com/;accesskey=L31Rv2S0CHNfKWBujRyIEw2n5Zz8mx/xK92rdk+G58Fy/eTpCwE4UTZhgxnOyvUkPSUuNPs66gsY2JBOfsbfGQ==
